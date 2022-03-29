@@ -1,0 +1,6 @@
+{
+    "ignoreTestFiles" : ["**/1-**/**", "**/2-**/**"],
+    "baseUrl" : "http://ec2-54-210-239-110.compute-1.amazonaws.com:3000/",
+    "video" : true
+    
+}
